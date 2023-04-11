@@ -5,5 +5,12 @@ public class Main {
 
        add.name="Hamid";
        add.age="30";
+
+       Rafik rafik = new Rafik();
+       rafik.name = "Rafik";
+       rafik.age = "43";
+        System.out.println(rafik.name);
+
+
     }
 }
