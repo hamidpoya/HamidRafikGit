@@ -5,5 +5,9 @@ public class Main {
 
        add.name="Hamid";
        add.age="30";
+
+       Hamid h = new Hamid();
+       h.job = "Operation Manager";
+        System.out.println(h.job);
     }
 }
